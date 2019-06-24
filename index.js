@@ -105,11 +105,15 @@ var commands = [
     "callback":function(msg){
      var variables = msg.content.split(" ");
      variables.splice(0,1)
-     var searchQuery =d be found for this query. Please try again with a different one.", "Cringe Memes Since 2019")
+     var searchQuery = variables.join(" ");
+       memeUrl(searchQuery, {"pageSize": 5}).then(res=>{
+       if (res.length == 0){
+       sendEmbed(msg,"Meme Error 404!",0x4286f4,"We cannot find a meme with this query, please try again with another.","Cringe Memes Since 2019","https://media1.giphy.com/media/a9xhxAxaqOfQs/giphy.gif");
        } else {
        var image = res[Math.floor((Math.random()*res.length)+1)]
        sendEmbed(msg,"Memes Galore!",0x4286f4,"Here's your spicy meme!","Cringe Memes Since 2019", image);
        }
+       
      })
     }
   },
