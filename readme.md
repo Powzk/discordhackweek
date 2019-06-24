@@ -31,7 +31,7 @@ Join Our Discord! https://discord.gg/a6RjzQc
 
 
 ## Installation
-
+    npm install git --global
     git clone https://github.com/Powzk/discordhackweek
     Then open the folder that was created (discordhackweek) and run (start.bat)
 
