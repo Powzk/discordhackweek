@@ -1,5 +1,12 @@
+
 {
+  "name": "discrod",
+  "version": "1.0.0",
+  "description": "Discrod is a fun entertaining bot for the 2019 Discord Hack Week!",
   "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "get-meme-urls": "1.0.1",
     "random-word-cli": "1.0.0",
@@ -12,5 +19,21 @@
     "request": "2.88.0",
     "body-parser": "1.19.0",
     "express": "4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Powzk/discordhackweek.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Entertainment"
+  ],
+  "author": "Powzk, Hoofer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Powzk/discordhackweek/issues"
+  },
+  "homepage": "https://github.com/Powzk/discordhackweek#readme"
+  
 }
