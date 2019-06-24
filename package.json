@@ -1,11 +1,10 @@
-
 {
   "name": "discrod",
   "version": "1.0.0",
   "description": "Discrod is a fun entertaining bot for the 2019 Discord Hack Week!",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "test": "node ."
   },
   "dependencies": {
     "get-meme-urls": "1.0.1",
