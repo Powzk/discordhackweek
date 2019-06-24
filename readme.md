@@ -4,7 +4,7 @@
 
 > This bot was submitted for the 2019 DiscordHack Week Submission and was made by Powzk and Hoofer.
 
-Join Our Discord! https://discord.gg/a6RjzQc
+Join Our Discord! https://discord.gg/Pa9epKM
 
 ## Commands & Features
 `!commands` **| Gives user a list of commands** 
