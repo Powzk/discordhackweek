@@ -4,11 +4,7 @@ var memeUrl = require('get-meme-urls');
 var randomWord = require('random-word');
 var ifunny = require('ifunny-web-api');
 var jokeAPI = require('give-me-a-joke');
-var config = {
-  "prefix":"!",
-  "token" : "NTkyNzYyMDc0ODQ5ODY5ODU1.XREDOw.CWl_97RIWRg6GpnhVZVQKvu_E8s",
-  "serverInvite" : "https://discordapp.com/oauth2/authorize?client_id=592762074849869855&scope=bot&permissions=2102918271"
-}
+var config = require('./config.json')
 function sendEmbed(msg, embedTitle, color, text, footer, image) {
   const embed = new discord.RichEmbed()
   .setTitle(embedTitle)
