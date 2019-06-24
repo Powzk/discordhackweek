@@ -46,7 +46,7 @@ Join Our Discord! https://discord.gg/a6RjzQc
 
 
 ## Other Information
-Liscenced under MIT ( See `LISCENCE` for more information. )
+Liscenced under MIT ( See `LICENSE` for more information. )
 
 **Powzk -** `Akkoza#7779`
 
