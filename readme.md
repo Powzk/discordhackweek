@@ -6,11 +6,17 @@
 
 ## Commands & Features
 `!commands` **| Gives user a list of commands** 
-`!makemelaugh` **| Generates a random meme!** 
+
+`!makemelaugh` **| Generates a random meme!**
+
 `!ifunny` **| We get it, they suck.** 
+
 `!findmeme [Search Query]` **| Get them hot memes under your searching knowledge.**
+
 `!tictactoe [User]` **| Tic Tac, let 'em rip!**
+
 `!dadjoke` **| **Dad, is that you?****
+
 
 
 ## Dependencies
