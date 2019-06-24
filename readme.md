@@ -1,7 +1,7 @@
 
 ## Discrod Bot - Glitchiest Bot Around
 ![](https://cdn.discordapp.com/attachments/468939534206238751/592830380952911912/68747470733a2f2f692e696d6775722e636f6d2f33736c7a4965342e706e67.png)
-![](https://i.redd.it/93wickzysdp21.png)
+![](http://www.simpleimageresizer.com/_uploads/photos/0f21d5c4/68747470733a2f2f692e726564642e69742f39337769636b7a7973647032312e706e67_2_25.png)
 
 > This bot was submitted for the 2019 DiscordHack Week Submission and was made by Powzk and Hoofer.
 
