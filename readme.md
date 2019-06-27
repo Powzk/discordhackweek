@@ -33,7 +33,9 @@ Join Our Discord! https://discord.gg/Pa9epKM
 ## Installation
     npm install git --global
     git clone https://github.com/Powzk/discordhackweek
-    Then open the folder that was created (discordhackweek) and run (start.bat)
+    Then open the folder that was created (discordhackweek) and open config.json
+    Change the (token) value to your bot token.
+    Go back to the (discordhackweek) folder and run (start.bat)
 
 
 ## Default Config.json
