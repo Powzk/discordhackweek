@@ -5,6 +5,7 @@
 > This bot was submitted for the 2019 DiscordHack Week Submission and was made by Powzk and Hoofer.
 
 Join Our Discord! https://discord.gg/Pa9epKM
+
 Invite the bot to your server! https://discordapp.com/oauth2/authorize?client_id=592762074849869855&scope=bot&permissions=2102918271
 
 ## Commands & Features
