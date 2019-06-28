@@ -31,6 +31,7 @@ Join Our Discord! https://discord.gg/Pa9epKM
     random-word 
     ifunny-web-api 
     give-me-a-joke
+    youtube-random-video
 
 
 ## Installation
