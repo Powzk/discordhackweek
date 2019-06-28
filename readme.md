@@ -11,13 +11,16 @@ Join Our Discord! https://discord.gg/Pa9epKM
 
 `!makemelaugh` **| Generates a random meme!**
 
+`!randomvideo` **| Grabs a random video from youtube for no reason at all! :D**
+
 `!ifunny` **| We get it, they suck.** 
+
+`!dadjoke` **| Dad, is that you?**
 
 `!findmeme [Search Query]` **| Get them hot memes under your searching knowledge.**
 
 `!tictactoe [User]` **| Tic Tac, let 'em rip!**
 
-`!dadjoke` **| **Dad, is that you?****
 
 
 
@@ -43,7 +46,8 @@ Join Our Discord! https://discord.gg/Pa9epKM
     {
     "prefix": "!",
     "token":"",
-    "botInvite":"https://discordapp.com/oauth2/authorize?client_id=BOT_ID&scope=bot&permissions=8"
+    "botInvite":"https://discordapp.com/oauth2/authorize?client_id=BOT_ID&scope=bot&permissions=8",
+    "ytAPIkey": "Your YT Api Key ( Optional )"
     }
 
 
