@@ -12,7 +12,7 @@
     "random-word": "2.0.0",
     "ifunny-web-api": "1.0.0",
     "cheerio": "1.0.0-rc.3",
-    "got": "9.6.0",
+    "got": "11.8.5",
     "discord.js": "11.5.1",
     "give-me-a-joke": "0.1.2",
     "request": "2.88.0",
